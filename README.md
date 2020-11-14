@@ -34,5 +34,6 @@ yarn dev
 ```
 http://127.0.0.1:8080/MyPlugin.mjs
 ```
+![](./step6.png)
 
 7. Start edit plugin as your wish
